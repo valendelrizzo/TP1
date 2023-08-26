@@ -2,8 +2,6 @@ module Library where
 import PdePreludat
 import Data.List (sort)
 
-doble :: Number -> Number
-doble numero = numero + numero
 
 -- la idea es que dada una lista de datas, poder obtener la lista ordenada. El criterio va a ser un numero, si son usuarios puede ser su DNI
 
