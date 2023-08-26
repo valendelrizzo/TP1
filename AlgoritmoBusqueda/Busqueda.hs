@@ -1,8 +1,6 @@
 module Library where
 import PdePreludat
 
-doble :: Number -> Number
-doble numero = numero + numero
 
 -- Lista de números en la que vamos a buscar
 numerosbusqueda = [23, 45, 12, 876, 156]
